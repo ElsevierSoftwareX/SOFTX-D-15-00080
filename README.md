@@ -30,4 +30,4 @@ REFERENCES
 [1] Mariem BOUAFIF,and Zied LACHIRI "TDOA ESTIMATION FOR MULTIPLE SPEAKERS IN UNDERDETERMINED CASE" INTERSPEECH 2012 ISCA's 13th Annual Conference Portland,OR, USA, September 9-13,pp 1748- 1951,2012 OR, USA, September 9-13,pp 1748- 1951,2012
 
 
-[2] Mariem Bouafif, Zied Lachiri SRC_Num_TDOA: Multiple speech sources’ number and their TDOA Estimation from a stereo recorded mixtureOriginal Research Article SoftwareX, Volume 5, 2016, Pages 234-242
+[2] Mariem Bouafif, Zied Lachiri SRC_Num_TDOA: Multiple speech sourcesâ€™ number and their TDOA Estimation from a stereo recorded mixtureOriginal Research Article SoftwareX, Volume 5, 2016, Pages 234-242
